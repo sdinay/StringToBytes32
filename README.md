@@ -7,7 +7,7 @@ I am using `$` and `>` symbol to indicate typing in the terminal, don't type the
 
 1. Install truffle in global mode (-g) 
 
-`$npm install -g truffle`
+`$ npm install -g truffle`
 
 2. git clone this repo
 
