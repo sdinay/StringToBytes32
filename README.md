@@ -3,6 +3,7 @@
 2. open up another terminal window and
 
 `npm install -g ganache-cli`
+
 `ganache-cli -p 7545`
 
 3. In the terminal window, cd into the repo
