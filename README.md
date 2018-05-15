@@ -16,6 +16,7 @@
 `truffle migrate --network development`
 
 `truffle console --network development`
+
 If it didn't work make sure your port is correct in ./truffle-config.js
 4. In the truffle console
 
