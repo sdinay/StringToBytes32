@@ -6,7 +6,7 @@
 
 `ganache-cli -p 7545`
 
-3. In the terminal window, cd into the repo
+3. In the first terminal window, cd into the repo
 `cd repo`
 
 `truffle init`
