@@ -1,3 +1,7 @@
+Test individual Solidity Smart Contract functions with Truffle and Ganache
+
+Replace my code within the first set of curly braces in `/contracts/Convert.sol` with your own Solidity functions. Then call them using `truffle`
+
 ## Instructions
 1. git clone this repo
 
@@ -11,7 +15,7 @@
 
 `cd repo`
 
-`truffle init`
+Don't use truffle init after cloning my repo. Only run `truffle init` if you are starting an empty project.
 
 `truffle compile`
 
