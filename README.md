@@ -9,11 +9,11 @@ I am using `$` and `>` symbol to indicate typing in the terminal, don't type the
 
 `$npm install -g truffle`
 
-1. git clone this repo
+2. git clone this repo
 
 `$ git clone https://github.com/sdinay/StringToBytes32.git`
 
-2. open up another terminal window and
+3. open up another terminal window and
 
 `$ npm install -g ganache-cli`
 
@@ -23,7 +23,7 @@ If you don't run an Ethereum client you will get an error when migrating
 
 `Could not connect to your Ethereum client. Please check that your Ethereum client...`
 
-3. In the first terminal window, cd into the repo
+4. In the first terminal window, cd into the repo
 
 `$ cd StringToBytes32`
 
@@ -37,7 +37,7 @@ Don't use truffle init after cloning my repo. Only run `truffle init` if you are
 
 The truffle console should be running. If it didn't work make sure your port is correct in `./truffle-config.js`
 
-4. In the truffle console
+5. In the truffle console
 
 `> Convert.deployed().then(inst => { ConvertInst = inst })`
 
