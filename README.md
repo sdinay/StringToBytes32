@@ -10,6 +10,7 @@ I am using `$` and `>` symbol to indicate typing in the terminal, don't type the
 `$npm install -g truffle`
 
 1. git clone this repo
+
 `$ git clone https://github.com/sdinay/StringToBytes32.git`
 
 2. open up another terminal window and
@@ -34,7 +35,7 @@ Don't use truffle init after cloning my repo. Only run `truffle init` if you are
 
 `$ truffle console --network development`
 
-If it didn't work make sure your port is correct in ./truffle-config.js
+The truffle console should be running. If it didn't work make sure your port is correct in `./truffle-config.js`
 
 4. In the truffle console
 
